@@ -1,5 +1,7 @@
 # R-essources
 
+# Listes de ressources
+* La [page "info" sur le tag `[R]` de Stack Overflow](http://stackoverflow.com/tags/r/info)
 
 #### Quotes
 
