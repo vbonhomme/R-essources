@@ -1,27 +1,8 @@
 # R-essources
 
-# Listes de ressources
-* La [page "info" sur le tag `[R]` de Stack Overflow](http://stackoverflow.com/tags/r/info)
+#### Must see
+* [`[R]` chez Stack Overflow](http://stackoverflow.com/tags/r/info)
 
-#### Quotes
-
-* Tout [ici](https://github.com/kbroman/datasciquotes) est délicieux mais on peut rajouter :
-
-> Frustration is typical and temporary - Hadley Wickham
-
-> If the statistics are boring, then you've got the wrong numbers. - Edward Tufte
-
-> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - John Wood
-
-> At their best, graphics are tools for reasonning about quantitative information. - Edward Tufte
-
-<!--
-Dans la catégorie "décrébilisons les statistiques" :
-
-> There are three types of lies - lies, damn lies, and statistics. ― Benjamin Disraeli
-
-> Les statistiques sont comme la dentelle des petites culottes : elles révèlent le superflu mais cachent l'essentiel - ?
--->
 
 #### Journaux
 * [*R-Journal*](http://journal.r-project.org/) : la gazette de R avec les nouveaux packages, des astuces, des articles techniques. *Open access*.
@@ -72,6 +53,24 @@ Dans la catégorie "décrébilisons les statistiques" :
 * [La recette des falafels avec R](http://www.butbn.cas.cz/francesco/Webpage/Gourmet.html)
 * [Une autre liste de ressources](http://kh-tps.osu.edu/read.pdf)
  
+#### Quotes
 
+* Tout [ici](https://github.com/kbroman/datasciquotes) est délicieux mais on peut rajouter :
+
+> Frustration is typical and temporary - Hadley Wickham
+
+> If the statistics are boring, then you've got the wrong numbers. - Edward Tufte
+
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - John Wood
+
+> At their best, graphics are tools for reasonning about quantitative information. - Edward Tufte
+
+<!--
+Dans la catégorie "décrébilisons les statistiques" :
+
+> There are three types of lies - lies, damn lies, and statistics. ― Benjamin Disraeli
+
+> Les statistiques sont comme la dentelle des petites culottes : elles révèlent le superflu mais cachent l'essentiel - ?
+-->
 
 
