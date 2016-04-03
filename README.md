@@ -3,6 +3,8 @@
 #### Must see
 * [`[R]` chez Stack Overflow](http://stackoverflow.com/tags/r/info)
 
+#### Moteur de recherche
+* [Rseek](http://rseek.org/)  dédié à R
 
 #### Journaux
 * [*R-Journal*](http://journal.r-project.org/) : la gazette de R avec les nouveaux packages, des astuces, des articles techniques. *Open access*.
