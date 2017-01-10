@@ -26,6 +26,7 @@
 * [*S poetry*](http://www.burns-stat.com/documents/books/s-poetry/): un livre sur les origines de R, sur l'élégance de S.
 * [*The R Inferno*](http://www.burns-stat.com/documents/books/the-r-inferno/): le contre-point du précédent, par le même auteur, sur les singularités de R.
 * [*R packages*](http://r-pkgs.had.co.nz/) par Hadley Wickham. En ligne et en version imprimée. Une excellente et concise introduction à l'écriture de packages.
+
 #### Sites
 * [*R-bloggers*](http://www.r-bloggers.com/) : aggrégation de blogs qui traitent de R, quelques posts par jour, éclectique, une excellente ressource pour être à la page. tl;dr: un best-of [ici](http://www.r-bloggers.com/?s=in+case+you+missed+it)
 * [*crantastic*](http://crantastic.org/) : un site qui récupère toute l'activité sur les dépôts de packages. Permet de reviewer des packages, de chercher par auteur, etc.
