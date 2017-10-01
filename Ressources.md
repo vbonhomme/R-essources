@@ -23,6 +23,7 @@
 * [*Use R!*](http://www.springer.com/series/6991) Série (50+ ouvrages) publiée chez *Springer*. Généralement excellente et focalisée sur une problématique
 * [*Advanced R*](http://adv-r.had.co.nz/) par Hadley Wickham. En ligne et en version imprimée. Plongée dans la tambouille interne de R.
 * [*R packages*](http://r-pkgs.had.co.nz/) par Hadley Wickham. En ligne et en version imprimée. Une excellente et concise introduction à l'écriture de packages.
+* [*Efficient R programming*](https://csgillespie.github.io/efficientR/) par Colin Gillespie et Robin Lovelace. Un cran plus loin, et meilleur, pour les programmeurs avertis.
 * [*S poetry*](http://www.burns-stat.com/documents/books/s-poetry/): un livre sur les origines de R, sur l'élégance de S.
 * [*The R Inferno*](http://www.burns-stat.com/documents/books/the-r-inferno/): le contre-point du précédent, par le même auteur, sur les singularités de R.
 * [*R packages*](http://r-pkgs.had.co.nz/) par Hadley Wickham. En ligne et en version imprimée. Une excellente et concise introduction à l'écriture de packages.
