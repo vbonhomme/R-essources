@@ -77,6 +77,5 @@
 
 > L'analyse statistique n'est vraiment utile qu'à des personnes qui n'en n'ont pas la maîtrise, et n'est maîtrisée que par des personnes qui n'en n'ont pas vraiment l'usage - Daniel Chessel
 
--->
 
 
