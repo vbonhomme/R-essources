@@ -71,12 +71,12 @@
 
 > At their best, graphics are tools for reasonning about quantitative information. - Edward Tufte
 
-<!--
-Dans la catégorie "décrébilisons les statistiques" :
-
 > There are three types of lies - lies, damn lies, and statistics. ― Benjamin Disraeli
 
 > Les statistiques sont comme la dentelle des petites culottes : elles révèlent le superflu mais cachent l'essentiel - ?
+
+> L'analyse statistique n'est vraiment utile qu'à des personnes qui n'en n'ont pas la maîtrise, et n'est maîtrisée que par des personnes qui n'en n'ont pas vraiment l'usage - Daniel Chessel
+
 -->
 
 
