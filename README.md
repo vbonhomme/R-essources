@@ -20,6 +20,7 @@
 #### Ouvrages
 * [*Discover statistics using R*](http://www.sagepub.com/dsur/main.htm) (2012) par Andy Field, Jeremy Miles et Zoë Field (992pp.) chez *Sage*. Une excellente ressource très complète et vivante.
 * [*The R Book*](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470973927.html) (2012) Seconde édition par Michael J. Crawley. Une autre bonne ressource, complète, sur R.
+* [* R for Data Science*](https://r4ds.had.co.nz/) LA référence
 * [*Use R!*](http://www.springer.com/series/6991) Série (50+ ouvrages) publiée chez *Springer*. Généralement excellente et focalisée sur une problématique
 * [*Advanced R*](http://adv-r.had.co.nz/) par Hadley Wickham. En ligne et en version imprimée. Plongée dans la tambouille interne de R.
 * [*R packages*](http://r-pkgs.had.co.nz/) par Hadley Wickham. En ligne et en version imprimée. Une excellente et concise introduction à l'écriture de packages.
